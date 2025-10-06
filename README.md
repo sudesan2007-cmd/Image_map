@@ -23,7 +23,8 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
-```madurai.html
+```
+madurai.html
 
 <html>
 <head>
