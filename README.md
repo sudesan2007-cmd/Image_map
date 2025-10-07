@@ -184,7 +184,8 @@ Overall, Arappalayam is a bustling and essential part of Madurai's urban life.</
 </p>
 </body>
 ```
-# OUTPUT
+OUTPUT
+# <img width="1678" height="873" alt="Screenshot 2025-10-05 220956" src="https://github.com/user-attachments/assets/b43bf844-015e-481f-a2cb-b0402db6e5fa" />
 ![alt text](madurai.html.png)
 ![alt text](othakadai.html.png)
 ![alt text](pasumalai.html.png)
